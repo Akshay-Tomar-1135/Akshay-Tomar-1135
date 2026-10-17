@@ -1,3 +1,5 @@
+<img align="right" height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="coding animation" />
+
 <h1 align="left">Hi 👋, I'm Akshay Tomar</h1>
 
 ### Software Development Engineer · Backend · Distributed Systems
@@ -5,6 +7,8 @@
 I build reliable, scalable backend systems: distributed services, real-time data pipelines, and the experimentation infrastructure that lets teams ship product changes safely. I work mostly in **Go**, and I'm comfortable across the stack.
 
 I like owning systems end to end: designing them, shipping them, monitoring them, and learning from incidents so they don't repeat. I also care about the work around the code: reviews, mentoring, documentation and tooling.
+
+<br clear="both">
 
 ---
 
