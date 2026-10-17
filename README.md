@@ -1,87 +1,68 @@
+<h1 align="left">Hi 👋, I'm Akshay Tomar</h1>
 
-<!--
-### Hi there 👋
-**Akshay-Tomar-1135/Akshay-Tomar-1135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Engineer · Backend · Distributed Systems
 
-Here are some ideas to get you started:
+I build reliable, scalable backend systems: distributed services, real-time data pipelines, and the experimentation infrastructure that lets teams ship product changes safely. I work mostly in **Go**, and I'm comfortable across the stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like owning systems end to end: designing them, shipping them, monitoring them, and learning from incidents so they don't repeat. I also care about the work around the code: reviews, mentoring, documentation and tooling.
 
-<h2 align="left">Hi 👋! My name is Akshay Tomar and I'm a B.Tech. final year CSE student, from Baraut, Uttar Pradesh.</h2>
+---
 
-###
+### 🔭 What I work on
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshay-Tomar-1135&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Tomar-1135&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- ⚙️ **Backend services in Go**, handling high-traffic production workloads
+- 📈 **Ranking and recommendation systems**, including A/B experimentation
+- 🌊 **Real-time pipelines** on streaming and low-latency datastores
+- 🛠️ **Reliability and observability**: RCAs, alerting, metrics and dashboards
+- 🤖 **AI-assisted developer tooling**, such as agents that automate debugging work
 
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"  />
-
-###
+### 🧰 Tech I use
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=go,py,java,js,ts,cpp&perline=6" alt="languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind&perline=6" alt="frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=kafka,redis,mongodb,mysql,postgres,elasticsearch&perline=6" alt="data" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,git,github,postman,gcp&perline=9" alt="infra and tooling" />
 </div>
 
-###
+Also: ScyllaDB, Dragonfly, Spark, Argo CD, etcd/ZooKeeper, and AI tools like Claude, Cursor and ChatGPT in my daily workflow.
+
+---
+
+### 🚀 Personal projects
+
+- **[Suraksha](https://github.com/Akshay-Tomar-1135/suraksha-frontend)**: a safety platform for women and police, with OTP/Aadhaar-based authentication, an SOS system with real-time location sharing, and safe-route recommendations. *(React, Tailwind CSS, Google Maps API, Python, Postgres)*
+- **[School Management System](https://github.com/Akshay-Tomar-1135/sms-backend)**: a Node.js/MongoDB backend with role-based dashboards, JWT authentication and REST APIs for attendance, grading and scheduling. *(Express, Node.js, MongoDB, Firebase)*
+
+### 🏆 Competitive programming
 
 <div align="left">
-  <a href="https://discordapp.com/users/787317865203236925" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://leetcode.com/Akshay-Tomar-1135/">
+    <img src="https://leetcard.jacoblin.cool/Akshay-Tomar-1135?theme=dark&ext=heatmap" height="170" alt="LeetCode stats" />
+  </a>
+</div>
+
+LeetCode Knight (max rating 1908) · [Codeforces](https://codeforces.com/profile/akshay_tomar)
+
+---
+
+### 💬 Ask me about
+
+Go · backend system design · ranking and experimentation · real-time data pipelines · reliability and RCAs · LeetCode
+
+### 📫 Let's connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/akshay-tomar-/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:akshaytomar1135@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/akshay-tomar-9ba137204" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://leetcode.com/Akshay-Tomar-1135/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
 </div>
-
-###
